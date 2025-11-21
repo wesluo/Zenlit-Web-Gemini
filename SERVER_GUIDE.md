@@ -1,6 +1,6 @@
-# How to Run the Zenlit Development Server
+# Alternative: Manual Production Preview
 
-To preview the Zenlit application after making changes, it's recommended to serve the production build files using a simple HTTP server. This method has proven to be more stable in certain environments than the development server.
+This guide describes how to manually serve the production build files using a simple Python HTTP server. This is an alternative to the standard `npm run preview` command and can be useful for specific debugging scenarios or environments where Node.js serving might not be desired.
 
 ## Steps:
 
