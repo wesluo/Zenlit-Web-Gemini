@@ -44,7 +44,7 @@ const Hero = () => {
           className="space-y-2"
         >
           <span className="inline-block px-4 py-1.5 rounded-full glass-panel text-accent-gold text-xs font-bold tracking-widest uppercase mb-4">
-            The Future of Safe Driving
+            The Future of Safe Driving!
           </span>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold text-white leading-tight">
             Drive Smart, <br /> <span className="text-gradient-primary">Earn ZNLT</span>
